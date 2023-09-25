@@ -1,0 +1,32 @@
+{
+"saga":"Star Wars",
+"peliculas":[
+        {"title":"La guerra de las galaxias",
+         "id" : "4",
+         "year": "1977"},
+        {"title":"El imperio contraataca",
+         "id": "5",
+         "year": "1980"},
+        {"title":"El retorno del Jedi",
+         "id": "6",
+         "year": "1983"},
+        {"title":"La amenaza fantasma",
+         "id": "1",
+         "year": "1999"},
+        {"title":"El ataque de los clones",
+         "id": "2",
+         "year": "2002"},
+        {"title":"La venganza de los sith",
+         "id":"3",
+         "year": "2005"},
+        {"title":"El despertar de la fuerza",
+         "id": "7",
+         "year": "2015"},
+         {"title":"Los últimos Jedi",
+          "id": "8",
+          "year": "2017"},
+        {"title":"El ascenso de SkyWalker",
+         "id": "9",
+         "year": "2019"}
+    ]       
+}
